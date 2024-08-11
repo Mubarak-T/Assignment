@@ -6,4 +6,4 @@ function getEvenNumbers(en){
     }
 }
 
-getEvenNumbers(11);
+getEvenNumbers(11)
